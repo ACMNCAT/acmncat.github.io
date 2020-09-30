@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/media/presentations", {data:[{}],fetch:[],mutations:void 0});

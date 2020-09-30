@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/media/newsletters", {data:[{}],fetch:[],mutations:void 0});

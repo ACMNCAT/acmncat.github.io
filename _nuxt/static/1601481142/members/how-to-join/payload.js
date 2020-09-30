@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/how-to-join", {data:[{}],fetch:[],mutations:void 0});

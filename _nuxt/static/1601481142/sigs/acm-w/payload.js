@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sigs/acm-w", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/getting-involved", {data:[{}],fetch:[],mutations:void 0});

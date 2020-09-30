@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="102.004 99.244 282.843 282.843" xmlns="http://www.w3.org/2000/svg">
+  <rect style="fill: rgb(99, 248, 129);" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 246.371902, 67.226761)" x="20.556" y="24.723" width="200" height="200" rx="5" ry="5">
+    <title>Badge</title>
+  </rect>
+  <g transform="matrix(0.852452, 0.154078, -0.195614, 0.925129, 219.508652, 77.830032)" style="">
+    <title>Phone</title>
+    <rect x="25.675" y="98.969" width="73.224" height="130.479" style="fill: rgb(61, 61, 61);" rx="4.959" ry="4.959">
+      <title>Phone Body</title>
+    </rect>
+    <rect x="23.492" y="97.259" width="73.224" height="130.479" style="fill: rgb(98, 98, 98);" rx="4.959" ry="4.959">
+      <title>Phone Body</title>
+    </rect>
+    <rect x="26.517" y="101.617" width="67.123" height="111.928" style="fill: rgb(255, 255, 255);" rx="1.392" ry="1.392" transform="matrix(1, 0, 0.008014, 1, -1.262818, 0)">
+      <title>Phone Screen</title>
+    </rect>
+    <circle style="fill: rgb(255, 255, 255);" cx="61.098" cy="219.362" r="5.445" transform="matrix(0.692034, 0, -0.009353, 0.69624, 17.794333, 67.702065)">
+      <title>Phone Home Button</title>
+    </circle>
+  </g>
+</svg>

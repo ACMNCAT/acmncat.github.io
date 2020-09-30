@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sigs/interviewing", {data:[{}],fetch:[],mutations:void 0});
